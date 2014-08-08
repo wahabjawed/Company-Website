@@ -394,7 +394,7 @@ a:hover {
   background-clip: padding-box;
 }
 #about .round-outline .round-photo-anchor .round-caption-bg {
-  background-color: #df5757;
+  background-color: rgba(256,256,256,.5);
   height: 90%;
   width: 90%;
   margin: 5%;

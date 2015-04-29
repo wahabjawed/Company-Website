@@ -98,7 +98,7 @@ a:hover {
   font-size: 2em;
   width: 60px;
   height: 60px;
-  border: 2px solid #df5757;
+  border: 2px solid #db4a2f;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
@@ -106,14 +106,14 @@ a:hover {
   background-clip: padding-box;
   background-color: transparent;
   line-height: 56px;
-  color: #df5757;
+  color: #db4a2f;
   -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
   -o-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
 }
 .icon-outline i:hover {
-  background-color: #df5757;
+  background-color: #db4a2f;
   color: #fff;
   border: 2px solid #fff;
 }
@@ -232,7 +232,7 @@ a:hover {
   background-clip: padding-box;
 }
 .navbar .navbar-nav li a:hover {
-  background-color: #df5757;
+  background-color: #db4a2f;
   outline: none;
   color: #fff;
 }
@@ -241,7 +241,7 @@ a:hover {
   outline: none;
 }
 .navbar .navbar-nav li:hover {
-  background-color: #df5757;
+  background-color: #db4a2f;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -250,7 +250,7 @@ a:hover {
   background-clip: padding-box;
 }
 .navbar .navbar-nav .active {
-  background-color: #df5757;
+  background-color: #db4a2f;
   color: #fff;
   -webkit-border-radius: 4px;
   border-radius: 4px;
@@ -303,6 +303,9 @@ a:hover {
   box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.5);
   margin-top: 15px;
 }
+.navbar-brand .logo{
+	width:150px;
+}
 .minified {
   opacity: 0.9;
   padding: 15px 0;
@@ -349,7 +352,7 @@ a:hover {
   text-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 .jumbotron p .btn:hover {
-  color: #df5757;
+  color: #db4a2f;
 }
 .jumbotron #header-photo {
   opacity: 0;
@@ -367,7 +370,7 @@ a:hover {
 }
 #about h1 {
   margin: 0 0 40px 0;
-  color: #df5757;
+  color: #db4a2f;
 }
 #about .round-outline {
   border: 2px solid #e4e4e4;
@@ -467,38 +470,38 @@ a:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  border: 2px solid #df5757;
+  border: 2px solid #db4a2f;
   margin-top: 20px;
 }
 #about .social-icons .icon-facebook {
   background: #ffffff url('../img/icon-facebook-red.png') center center no-repeat;
 }
 #about .social-icons .icon-facebook:hover {
-  background: #df5757 url('../img/icon-facebook-white.png') center center no-repeat;
+  background: #db4a2f url('../img/icon-facebook-white.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter {
   background: #ffffff url('../img/icon-twitter-red.png') center center no-repeat;
 }
 #about .social-icons .icon-twitter:hover {
-  background: #df5757 url('../img/icon-twitter-white.png') center center no-repeat;
+  background: #db4a2f url('../img/icon-twitter-white.png') center center no-repeat;
 }
 #about .social-icons .icon-skype {
   background: #ffffff url('../img/icon-skype-red.png') center center no-repeat;
 }
 #about .social-icons .icon-skype:hover {
-  background: #df5757 url('../img/icon-skype-white.png') center center no-repeat;
+  background: #db4a2f url('../img/icon-skype-white.png') center center no-repeat;
 }
-#about .social-icons .icon-dribbble {
-  background: #ffffff url('../img/icon-dribbble-red.png') center center no-repeat;
+#about .social-icons .icon-linkedin {
+  background: #ffffff url('../img/icon-linkedin-red.png') center center no-repeat;
 }
-#about .social-icons .icon-dribbble:hover {
-  background: #df5757 url('../img/icon-dribbble-white.png') center center no-repeat;
+#about .social-icons .icon-linkedin:hover {
+  background: #db4a2f url('../img/icon-linkedin-white.png') center center no-repeat;
 }
 /* ==========================================================================
    Services Section
    ========================================================================== */
 #services {
-  background-color: #df5757;
+  background-color: #db4a2f;
   text-align: center;
   padding: 100px 0;
   color: #fff;
@@ -527,15 +530,15 @@ a:hover {
   height: 80px;
   width: 80px;
   display: inline-block;
-  background-color: #df5757;
+  background-color: #db4a2f;
   -webkit-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: inset 0 0 0 50px #df5757;
-  -moz-box-shadow: inset 0 0 0 50px #df5757;
-  box-shadow: inset 0 0 0 50px #df5757;
+  -webkit-box-shadow: inset 0 0 0 50px #db4a2f;
+  -moz-box-shadow: inset 0 0 0 50px #db4a2f;
+  box-shadow: inset 0 0 0 50px #db4a2f;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -578,9 +581,9 @@ a:hover {
 }
 #services .service-column:hover .service-icon {
   background-color: #fff;
-  -webkit-box-shadow: inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 0 #db4a2f;
+  -moz-box-shadow: inset 0 0 0 0 #db4a2f;
+  box-shadow: inset 0 0 0 0 #db4a2f;
   margin-top: 30px;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -602,7 +605,7 @@ a:hover {
   line-height: 80px;
   width: 100%;
   height: 100%;
-  color: #df5757;
+  color: #db4a2f;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -635,7 +638,7 @@ a:hover {
   padding: 10px;
 }
 #portfolio .cat-list .active {
-  background-color: #df5757;
+  background-color: #db4a2f;
   color: #fff;
 }
 #portfolio .resp-btn {
@@ -697,9 +700,9 @@ a:hover {
   transition: all 0.2s ease-out;
   transition-delay: 0.4s;
   -webkit-transition-delay: 0.4s;
-  -webkit-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 6px #df5757, inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 4px #db4a2f, inset 0 0 0 0 #db4a2f;
+  -moz-box-shadow: inset 0 0 0 4px #db4a2f, inset 0 0 0 0 #db4a2f;
+  box-shadow: inset 0 0 0 4px #db4a2f, inset 0 0 0 0 #db4a2f;
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a .caption-bg::before {
   content: '';
@@ -708,9 +711,9 @@ a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  -webkit-box-shadow: inset 0 0 0 0 #df5757;
-  -moz-box-shadow: inset 0 0 0 0 #df5757;
-  box-shadow: inset 0 0 0 0 #df5757;
+  -webkit-box-shadow: inset 0 0 0 0 #db4a2f;
+  -moz-box-shadow: inset 0 0 0 0 #db4a2f;
+  box-shadow: inset 0 0 0 0 #db4a2f;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   -moz-background-clip: padding;
@@ -767,9 +770,9 @@ a:hover {
 }
 #portfolio .portfolio-row .portfolio-mix .portfolio-item a:hover .caption-bg::before {
   content: '';
-  -webkit-box-shadow: inset 0 0 0 160px #df5757;
-  -moz-box-shadow: inset 0 0 0 160px #df5757;
-  box-shadow: inset 0 0 0 160px #df5757;
+  -webkit-box-shadow: inset 0 0 0 160px #db4a2f;
+  -moz-box-shadow: inset 0 0 0 160px #db4a2f;
+  box-shadow: inset 0 0 0 160px #db4a2f;
   -webkit-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -o-transition: all 0.5s ease-out;
@@ -797,16 +800,19 @@ a:hover {
   transition-delay: 0.6s;
   -webkit-transition-delay: 0.6s;
 }
+.white-back{
+	background:#eee;
+}
 #portfolio .btn {
   margin: 0 10px;
 }
 #portfolio .btn-outline-white {
-  color: #df5757;
+  color: #db4a2f;
   text-transform: none;
-  border: 2px solid #df5757;
+  border: 2px solid #db4a2f;
 }
 #portfolio .btn-outline-white:hover {
-  background-color: #df5757;
+  background-color: #db4a2f;
   color: #fff;
 }
 #portfolio p .btn-outline-white {
@@ -905,7 +911,7 @@ a:hover {
 
 }
 .da-slide .da-img .round-outline {
-  border: 2px solid #df5757;
+  border: 2px solid #db4a2f;
   width: 116px;
   height: 116px;
   position: relative;
@@ -967,7 +973,7 @@ a:hover {
   top: 2px;
   left: 2px;
   border-radius: 50%;
-  background: #df5757;
+  background: #db4a2f;
 }
 .da-arrows {
   -moz-user-select: none;
@@ -2088,7 +2094,7 @@ a:hover {
    Contact Section
    ========================================================================== */
 #contact {
-  background-color: #df5757;
+  background-color: #2A2828;
   text-align: center;
   padding: 100px 0;
   -webkit-box-shadow: inset 0 4px 0 rgba(0, 0, 0, 0.1);
@@ -2116,8 +2122,8 @@ a:hover {
 }
 #contact form input,
 #contact form textarea {
-  background-color: #ffffff;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   border: none;
   border-bottom: 2px solid #fff;
   -webkit-border-radius: 4px;
@@ -2133,9 +2139,10 @@ a:hover {
 }
 #contact form input:focus,
 #contact form textarea:focus {
+	color: #fff;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 0 #7aba7b;
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1), 0 0 0 #7aba7b;
-  background-color: #4c8b5d;
+  background-color: #db4a2f;
 }
 #contact form ::-webkit-input-placeholder {
   color: #FFF;
@@ -2168,13 +2175,13 @@ a:hover {
 }
 #contact form button[type="submit"]:hover {
   background-color: #fff;
-  color: #df5757;
+  color: #db4a2f;
 }
 /* ==========================================================================
    Footer Section
    ========================================================================== */
 .footer {
-  background-color: #C43C3C;
+  background-color: #AE3923;
   text-align: center;
 }
 .footer p {
@@ -2204,7 +2211,7 @@ a:hover {
   opacity: 0;
 }
 .scrolltotop:hover {
-  color: #df5757;
+  color: #db4a2f;
   background-color: #eee;
   -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);

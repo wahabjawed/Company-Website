@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html>
 
-
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 
-	<title>Avialdo - I Avialdo, Do You?</title>
+	<title>Avialdo - Scalable Solutions for Growing Businesses</title>
 
 	<link href="favicon.html" rel="icon" type="image/x-icon" />
 	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/teampictures.css" />
 	<link href="css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/style.css" />
 	<link rel="stylesheet" href="css/prettyPhoto.css" />
 	<link rel="stylesheet" href="css/custom.css" />
-
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon"/>
+	
+	<!--c HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
+
 </head>
 
 
@@ -36,7 +38,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#"><img class="logo" src="img/logo.png" alt=""></a>
+			<a class="navbar-brand" href="http://www.avialdo.com"><img class="logo" src="img/logo.png" alt=""></a>
 		</div>
 
 		<nav id="my-nav" class="navbar-collapse collapse" role="navigation">
@@ -61,9 +63,9 @@
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<div class="main-photo" id="header-photo">
-					<figure class="round-outline"><img class="round-photo" src="assets/profile-photo.png" alt=""></figure>
+					<!--<figure class="round-outline">--><img class="round-photo" src="assets/profile-photo.png" alt=""><!--</figure>-->
 				</div>
-				<h1>W<span style="font-size: 0.7em">e</span> a<span style="font-size: 0.7em">re</span> A<span style="font-size: 0.7em">vialdo</span> D<span style="font-size: 0.7em">evelopment</span> S<span style="font-size: 0.7em">tudio</span></h1>
+				<h1>S<span style="font-size: 0.7em">calable</span> S<span style="font-size: 0.7em">olutions</span> F<span style="font-size: 0.7em">or</span> G<span style="font-size: 0.7em">rowing</span> B<span style="font-size: 0.7em">usinesses</span></h1>
 				<p><a class="btn btn-outline-white btn-big" href="#contact">Contact Us</a></p>
 			</div>
 		</div>
@@ -72,56 +74,124 @@
 <!-- End of Jumbotron -->
 
 
+    
+
 <!-- About Section -->
 <section id="about" class="cbp-so-section cbp-so-init">
-	<div class="container cbp-so-side cbp-so-side-top">
+	
 
 		<h1>Meet Us</h1>
+		
+		<!--<div class="row">-->
+			<label class="round-outline" for="modal-1"><img class="round-photo teamPic" src="assets/wahab-sm.jpg"></img></label>
+			<label class="round-outline" for="modal-3"><img class="round-photo teamPic" src="assets/zohair-sm.jpg"></img></label>
+			<label class="round-outline" for="modal-2"><img class="round-photo teamPic" src="assets/zain-sm.jpg"></img></label>
 
-		<div class="row">
-			<div class="col-sm-2 col-sm-offset-3">
-				<figure class="round-outline">
-					<a href="#" class="round-photo-anchor" >
-						<img class="round-photo img-responsive" src="assets/photo1-sm.jpg" alt="Wahab Jawed">
-						<div class="round-caption-bg"></div>
-					</a>
-				</figure>
+			<input class="team-state" id="modal-1" type="checkbox" />
+			<div class="team">
+			  <label class="modal__bg" for="modal-1"></label>
+			  <div class="modal__inner">
+				<label class="modal__close" for="modal-1"></label>
+				<h2>Wahab Jawad</h2>
+				<p><img src="assets/wahab-lm.jpg" alt="" /><strong><i>Need something coded? Ask him. Besides being the technical lead, Wahab likes to spend his time making alternate theories about things you possibly might have missed.<br /><br />Approachable, dependable and hard working: those are the values by which he chooses to define himself. And it shows..in everything he does"</i></strong></p>
+				<div class="row social-icons">
+				<div class="col-sm-1 col-sm-offset-2">
+						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/wahab.jawed?fref=ts">Facebook</a>	
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+					</div>
+				</div>
+			  </div>
 			</div>
-            <div class="col-sm-2">
+
+			<input class="team-state" id="modal-2" type="checkbox" />
+			<div class="team">
+			  <label class="modal__bg" for="modal-2"></label>
+			  <div class="modal__inner">
+				<label class="modal__close" for="modal-2"></label>
+				<h2>Zain Shafi</h2>
+				<p><img src="assets/zain-lm.jpg" alt="" /><strong><i>Zain's business sense combined with his layout skills make him a vital part of Avialdo.<br /><br />His expertise primarily lies in the iOS application department which is a perfect match for him because of his attention to detail and quality. On odd days when his code refuses to compile, Zain is also fond of using a few jokes that would encourage others to take a day off too.</i></strong></p>
+				<div class="row social-icons">
+				<div class="col-sm-1 col-sm-offset-2">
+						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/zain.memon.7161?fref=ts">Facebook</a>	
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+					</div>
+				</div>
+			  </div>
+			</div>
+			<input class="team-state" id="modal-3" type="checkbox" />
+			<div class="team">
+			  <label class="modal__bg" for="modal-3"></label>
+			  <div class="modal__inner">
+				<label class="modal__close" for="modal-3"></label>
+				<h2>Zohair Hemani</h2>
+				<p><img src="assets/zohair-lm.jpg" alt="" /><strong><i>'A web developer par excellence'.<br /><br />His skills combine nicely with his experience on graphics making him the "Go to" person when the word "beautiful" and "website" are mentioned in one breath. Amongst other things, Hemani also likes to repeat play a song for over 7- 8 hours, though even he is unsure why he does that, he thinks it motivates him in his work.</i></strong></p>
+				<div class="row social-icons">
+				<div class="col-sm-1 col-sm-offset-2">
+						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/ZohairHemani?fref=ts">Facebook</a>	
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+					</div>
+					<div class="col-sm-1">
+						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+					</div>
+				</div>
+				</div>
+			</div>
+			
+            <!--<div class="col-sm-2 col-sm-offset-3">
 				<figure class="round-outline">
-					<a href="#" class="round-photo-anchor">
-						<img class="round-photo img-responsive" src="assets/photo2-sm.jpg" alt="Zain Shafi">
+					<a href="assets/zain-lm.jpg" class="round-photo-anchor">
+						<img class="round-photo img-responsive" src="assets/zain-sm.jpg" alt="Zain Shafi">
 						<div class="round-caption-bg"></div>
 					
+					</a>
+					
+				</figure>
+			</div>
+			<div class="col-sm-2">
+				<figure class="round-outline">
+					<a href="assets/wahab-lm.jpg" class="round-photo-anchor" >
+						<img class="round-photo img-responsive" src="assets/wahab-sm.jpg" alt="Wahab Jawed">
+						<div class="round-caption-bg"></div>
 					</a>
 				</figure>
 			</div>
 			<div class="col-sm-2">
 				<figure class="round-outline">
-					<a href="#" class="round-photo-anchor">
-						<img class="round-photo img-responsive" src="assets/photo3-sm.jpg" alt="Zohair Hemani">
+					<a href="assets/zohair-lm.jpg" class="round-photo-anchor">
+						<img class="round-photo img-responsive" src="assets/zohair-sm.jpg" alt="Zohair Hemani">
 						<div class="round-caption-bg"></div>
-						
 					</a>
 				</figure>
-			</div>
+			</div>-->
 			
-		</div>
-
+		<!--</div>-->
+<div class="container cbp-so-side cbp-so-side-top">
 		<p>What questions do you ask a developer/designer? Timeliness? Amount of bugs? Unique features? A “wow” worthy design? We give them all. Customized and right sized. That’s right we do not just develop and design. We make and craft.</p>
 
 		<div class="row social-icons">
 			<div class="col-sm-1 col-sm-offset-4">
-				<a class="icon-social icon-facebook" href="https://www.facebook.com/avialdo.inc">Facebook</a>
+				<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/avialdo.inc">Facebook</a>	
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-twitter" href="#">Twitter</a>
+				<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-skype" href="#">Skype</a>
+				<a class="icon-social icon-skype" target="_blank" href="https://www.skype.com">Skype</a>
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-dribbble" href="#">Dribbble</a>
+				<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
 			</div>
 		</div>
 
@@ -171,13 +241,12 @@
 			</div>
 		</div>
 	</div>
-    
 </section>
-<section id="servicesDescrip" class="cbp-so-section cbp-so-init anim-vertical collapse-vertical">
+<!--<section id="servicesDescrp" class="cbp-so-section cbp-so-init anim-vertical collapse-vertical">
     <div class="container cbp-so-side cbp-so-side-top">
             <h1>Testing</h1>
     </div>
-</section>
+</section>-->
 <!-- End of Services Section -->
 
 
@@ -197,25 +266,35 @@
 		<ul id="portfolio-grid" class="row portfolio-row">
 			<li class="portfolio-mix col-md-3 mobile-app">
 				<figure class="portfolio-item">
-					<a href="assets/PV.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/PV.jpg" alt="">
+					<a href="assets/ufcw5.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/ufcw5s.jpg" alt="">
 						<div class="caption-bg"></div>
-						<h3>Fast Food Menu Prices</h3>
+						<h3>UFCW5</h3>
 						<p class="portfolio-item-description">This is a great pack of premade graphics and web elements designed to help you create applications...</p>
+					</a>
+				</figure>
+			</li>
+			<li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/munik.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/muniks.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Munik VI</h3>
+						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
 					</a>
 				</figure>
 			</li>
 			<li class="portfolio-mix col-md-3 mobile-app">
 				<figure class="portfolio-item">
-					<a href="assets/redpoint-big.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/redpoint.jpg" alt="">
+					<a href="assets/mhn_radio.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/mhn_radios.jpg" alt="">
 						<div class="caption-bg"></div>
-						<h3>Bait-us-Salam</h3>
+						<h3>MHN Radio</h3>
 						<p class="portfolio-item-description">RedPoint HTML is a responsive template built on Twitter Bootstrap grid. It contains 15 unique...</p>
 					</a>
 				</figure>
 			</li>
-            
+            <!--
             <li class="portfolio-mix col-md-3 mobile-app">
 				<figure class="portfolio-item">
 					<a href="assets/redpoint-big.jpg" rel="prettyPhoto[portfolio-gal]">
@@ -238,29 +317,18 @@
 					</a>
 				</figure>
 			</li>
-            
-			<li class="portfolio-mix col-md-3 web-app">
-				<figure class="portfolio-item">
-					<a href="assets/breath-big.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/breath.jpg" alt="">
-						<div class="caption-bg"></div>
-						<h3>Threadz Poly</h3>
-						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
-					</a>
-				</figure>
-			</li>
-            
+            -->            
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/breath-big.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/breath.jpg" alt="">
+					<a href="assets/korkster.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/korksters.jpg" alt="">
 						<div class="caption-bg"></div>
-						<h3>EFA- Education For All</h3>
+						<h3>Korkster</h3>
 						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
 					</a>
 				</figure>
 			</li>
-            
+            <!--
                    <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
 					<a href="assets/breath-big.jpg" rel="prettyPhoto[portfolio-gal]">
@@ -347,9 +415,9 @@
 						<p class="portfolio-item-description">This is a great pack of premade graphics and elements designed to help you create applications, great online services...</p>
 					</a>
 				</figure>
-			</li>
+			</li>-->
 		</ul>
-		<p><a class="btn btn-outline-white btn-big" href="#">All my work</a></p>
+		<!--<p><a class="btn btn-outline-white btn-big" href="#">All my work</a></p>-->
 	</div>
 </section>
 <!-- End of Portfolio Section -->
@@ -426,7 +494,7 @@
 				<div class="icon">
 					<i class="fa fa-map-marker fa-2x"></i>
 				</div>
-				<p class="contact-meta">3rd Street, Soldier Bazar, Karachi, Pakistan</p>
+				<p class="contact-meta">343/3, D-3, Garden East, Karachi, Pakistan</p>
 			</div>
 			<div class="col-sm-2">
 				<div class="icon">
@@ -443,18 +511,21 @@
 		</div>
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3">
-				<form action="contact.php" method="post" role="form">
+				<form action="" id="contact-form" role="form">
 					<div class="form-group">
-						<input type="text" class="form-control input-lg" id="nameinput" placeholder="Name" name="contact-name">
+						<input type="text" class="form-control input-lg" id="contact-name" placeholder="Name" name="contact-name">
 					</div>
 					<div class="form-group">
-						<input type="email" class="form-control input-lg" id="emailinput" placeholder="Email" name="contact-email">
+						<input type="email" class="form-control input-lg" id="contact-email" placeholder="Email" name="contact-email">
 					</div>
 					<div class="form-group">
-						<textarea class="form-control" rows="6" name="contact-message"></textarea>
+						<textarea class="form-control" rows="6" id="contact-message" name="contact-message"></textarea>
 					</div>
 					<div class="form-group">
-						<button type="submit" class="btn btn-outline-white btn-big">Submit</button>
+						<div><p id="contact-alert"><div>
+					</div>
+					<div class="form-group">
+						<button type="button" class="btn white-back btn-outline-white btn-big" id="contact-submit">Submit</button>
 					</div>
 				</form>
 			</div>
@@ -480,7 +551,7 @@
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 
-<script src="js/jquery-latest.min.js" type="text/javascript"></script>
+<script src="js/jquery-latest.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.28468.js"></script>
 <script type="text/javascript" src="js/jquery.cslider.js"></script>
@@ -491,8 +562,48 @@
 <script type="text/javascript" src="js/classie.js"></script>
 <script type="text/javascript" src="js/scripts.js"></script>
 <script type="text/javascript" src="js/custom.js"></script>
-	
-</body>
 
-<!-- Mirrored from www.pixelglow.ro/themes/planus/1/index.html by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 04 Aug 2014 08:47:59 GMT -->
+<!-- Contact Form Ajax -->
+<script>
+		 function validateEmail($email) {
+		  var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+		  return emailReg.test( $email );
+		}
+		 $("#contact-submit").click(function()
+			 {
+				var dataString = 
+					{
+						name: $("#contact-name").val(),
+						email: $("#contact-email").val(),
+						message: $("#contact-message").val()
+					};
+				if(dataString['name'] == '' || dataString['email'] == '' || dataString['message'] == ''){
+					$('#contact-alert').text("All fields are required.");
+				}else if($("#contact-message").val().length < 10){
+					$('#contact-alert').text("Your message should contain more than 10 characters.");
+				}else if(!validateEmail($('#contact-email').val()))
+				{
+					$('#contact-alert').text("Please enter a valid email address.");
+				}else{
+				 $.ajax({
+					 type: "POST",
+					 url: "contact.php",
+					 data: dataString,
+					 success: function(result){
+						if(result == 0){
+							$('#contact-alert').text("Your message was sent successfully, Thanks!");
+						}else{
+							$('#contact-alert').text("Failed to send your message. Please try later or contact administrator by other way.");
+						}
+					 },
+					 error: function() {
+						$('#contact-alert').text("");
+						alert("Oops! Something has gone wrong.");
+					 }
+				 });
+				}
+			});
+</script>
+
+</body>
 </html>

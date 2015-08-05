@@ -4,6 +4,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Our services cover a wide array of IT related activities which are the center of businesses nowadays. Apple’s developers are pushing the boundaries, the Lollipop has got the Google fans excited and the website varieties increase. With so much on offer, we invite you to look through as there is nothing but quality on show and on promise from Avialdo.">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Computer,Apps,Mobile apps,android app,ios app,iphone app,wordpress,joomla,hosting,mobile,">
+    <meta name="author" content="Wahab Jawed,Zohair Hemani,Zain Shafi">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 
 	<title>Avialdo - Scalable Solutions for Growing Businesses</title>

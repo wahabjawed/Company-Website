@@ -280,7 +280,7 @@
 						<img class="img-responsive" src="assets/muniks.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Munik VI</h3>
-						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
+						<p class="portfolio-item-description">The registration and financial portal for delegates of Munik VI.</p>
 					</a>
 				</figure>
 			</li>
@@ -324,7 +324,7 @@
 						<img class="img-responsive" src="assets/korksters.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Korkster</h3>
-						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
+						<p class="portfolio-item-description">Korkster helps students and teachers like you buy, sell, and trade at your school, college or university.</p>
 					</a>
 				</figure>
 			</li>

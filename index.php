@@ -99,10 +99,10 @@
 						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/wahab.jawed?fref=ts">Facebook</a>	
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+						<a class="icon-social icon-twitter" target="_blank" href="https://twitter.com/WahabJawed1">Twitter</a>
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+						<a class="icon-social icon-linkedin" target="_blank" href="https://pk.linkedin.com/pub/wahab-jawed/63/451/477">Linkedin</a>
 					</div>
 				</div>
 			  </div>
@@ -123,7 +123,7 @@
 						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+						<a class="icon-social icon-linkedin" target="_blank" href="https://pk.linkedin.com/pub/zain-ul-abedin-shafi/90/896/78">Linkedin</a>
 					</div>
 				</div>
 			  </div>
@@ -140,10 +140,10 @@
 						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/ZohairHemani?fref=ts">Facebook</a>	
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+						<a class="icon-social icon-twitter" target="_blank" href="https://twitter.com/zohairhemani1">Twitter</a>
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+						<a class="icon-social icon-linkedin" target="_blank" href="https://pk.linkedin.com/pub/muhammad-zohair-hemani/57/218/41b">Linkedin</a>
 					</div>
 				</div>
 				</div>

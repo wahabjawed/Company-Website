@@ -185,13 +185,13 @@
 				<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/avialdo.inc">Facebook</a>	
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+				<a class="icon-social icon-twitter" target="_blank" href="https://twitter.com/AvialdoSolution">Twitter</a>
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-skype" target="_blank" href="https://www.skype.com">Skype</a>
+				<a class="icon-social icon-skype" target="_blank" href="skype:avialdo.solutions?call">Skype</a>
 			</div>
 			<div class="col-sm-1">
-				<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com">Linkedin</a>
+				<a class="icon-social icon-linkedin" target="_blank" href="https://www.linkedin.com/company/avialdo	">Linkedin</a>
 			</div>
 		</div>
 
@@ -270,7 +270,7 @@
 						<img class="img-responsive" src="assets/ufcw5s.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>UFCW5</h3>
-						<p class="portfolio-item-description">This is a great pack of premade graphics and web elements designed to help you create applications...</p>
+						<p class="portfolio-item-description">The UFCW5 App is the best way for its member to stay connected on the go with their Android powered phone.</p>
 					</a>
 				</figure>
 			</li>
@@ -290,7 +290,7 @@
 						<img class="img-responsive" src="assets/mhn_radios.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>MHN Radio</h3>
-						<p class="portfolio-item-description">RedPoint HTML is a responsive template built on Twitter Bootstrap grid. It contains 15 unique...</p>
+						<p class="portfolio-item-description">Stream music from some of the hottest mainstream and independent artist in the world. All genres from Alternative to hip hop.</p>
 					</a>
 				</figure>
 			</li>
@@ -334,7 +334,7 @@
 						<img class="img-responsive" src="assets/ffmps.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Fast Food Menu Prices</h3>
-						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
+						<p class="portfolio-item-description">Fast Food Menu Prices is the easiest and fastest way to find the price of food in your favorite fast food restaurants.</p>
 					</a>
 				</figure>
 			</li>

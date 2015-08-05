@@ -446,7 +446,7 @@
 							<img class="round-photo" src="assets/raza-ayub.jpg" alt="munik" />
 						</div>
 					</div>
-					<p class="block-cite">Raza Ayub, President at MUNIK IV</p>
+					<p class="block-cite">Raza Ayub, President at MUNIK VI</p>
 					<blockquote><p>We are extremely grateful to them for their services to MUNIK VI in ensuring the registration portal works smoothly for all our delegates.</p></blockquote>
 				</div>
 

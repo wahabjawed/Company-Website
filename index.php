@@ -213,7 +213,7 @@
 				<figure class="service-icon">
 					<i class="fa fa-mobile-phone"></i>
 				</figure>
-				<h2><a href="#">Mobile Apps</a></h2>
+				<h2>Mobile Apps</h2>
 				<p class="service-description">Our extensive experience delivering high-quality and inspired mobile products enables us to identify the ideal solution for both your business and global users, choosing from a wide range of technologies and frameworks for the greatest possible efficiency, performance and flexibility.</p>
 			</div>
 		
@@ -222,21 +222,21 @@
 				<figure class="service-icon">
 					<i class="fa fa-desktop"></i>
 				</figure>
-				<h2><a href="#">UI / UX</a></h2>
-				<p class="service-description">A great user experience (UX) and design is the vital link in the success of any product. At VentureDive, we are crazy about user experience and go great lengths to bring together what is desirable from a human point of view with what is technologically feasible and economically viable within a product.</p>
+				<h2>UI / UX</h2>
+				<p class="service-description">A great user experience (UX) and design is the vital link in the success of any product. At Avialdo, we are crazy about user experience and go great lengths to bring together what is desirable from a human point of view with what is technologically feasible and economically viable within a product.</p>
 			</div>
 			<div class="col-md-3 service-column">
 				<figure class="service-icon">
 					<i class="fa fa-cubes"></i>
 				</figure>
-				<h2><a href="#">Enterprise Strategy</a></h2>
+				<h2>Enterprise Strategy</h2>
 				<p class="service-description">Our enterprise application development team is smart and skilled with industry leading experience and a track record of successfully developing architectures, rich internet applications on cloud based platforms which means we can get you to where you want to go faster and more effectively.</p>
 			</div>
 			<div class="col-md-3 service-column">
 				<figure class="service-icon">
 					<i class="fa fa-gamepad"></i>
 				</figure>
-				<h2><a href="#">Web Development</a></h2>
+				<h2>Web Development</h2>
 				<p class="service-description">With the amount of practices and services available. It is easy to get lost in your Angulars and Node differences. We offer the website that not only stuns on design but also fully delivers on all parts of functionality with the simplest of structures.</p>
 			</div>
 		</div>
@@ -328,20 +328,19 @@
 					</a>
 				</figure>
 			</li>
-            <!--
-                   <li class="portfolio-mix col-md-3 web-app">
+            <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/breath-big.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/breath.jpg" alt="">
+					<a href="assets/ffmp.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/ffmps.jpg" alt="">
 						<div class="caption-bg"></div>
-						<h3>Easy Birth</h3>
+						<h3>Fast Food Menu Prices</h3>
 						<p class="portfolio-item-description">This is a pack of 10 Vintage text styles. You can use all these styles in web design or web apps but I've made...</p>
 					</a>
 				</figure>
 			</li>
             
             
-            
+            <!--
 			<li class="portfolio-mix col-md-3 ui-design">
 				<figure class="portfolio-item">
 					<a href="assets/flushui-big.jpg" rel="prettyPhoto[portfolio-gal]">
@@ -590,7 +589,7 @@
 					 url: "contact.php",
 					 data: dataString,
 					 success: function(result){
-						if(result == 0){
+						if(result=='success!'){
 							$('#contact-alert').text("Your message was sent successfully, Thanks!");
 						}else{
 							$('#contact-alert').text("Failed to send your message. Please try later or contact administrator by other way.");

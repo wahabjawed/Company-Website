@@ -257,7 +257,7 @@
                     return false
                 });
                 $pp_pic_holder.find(".pp_content").hover(function() {
-                    $pp_pic_holder.find(".pp_gallery:not(.disabled)").fadeIn()
+                    //$pp_pic_holder.find(".pp_gallery:not(.disabled)").fadeIn()
                 }, function() {
                     $pp_pic_holder.find(".pp_gallery:not(.disabled)").fadeOut()
                 });
@@ -270,13 +270,13 @@
                     })
                 })
             }
-            if (settings.slideshow) {
+            /*if (settings.slideshow) {
                 $pp_pic_holder.find(".pp_nav").prepend('<a href="#" class="pp_play">Play</a>');
                 $pp_pic_holder.find(".pp_nav .pp_play").click(function() {
                     e.prettyPhoto.startSlideshow();
                     return false
                 })
-            }
+            }*/
             $pp_pic_holder.attr("class", "pp_pic_holder " + settings.theme);
             $pp_overlay.css({
                 opacity: 0,
@@ -325,9 +325,9 @@
             opacity: .8,
             show_title: true,
             allow_resize: true,
-            allow_expand: true,
-            default_width: 500,
-            default_height: 344,
+            allow_expand: false,
+            default_width: 200,
+            default_height: 200,
             counter_separator_label: "/",
             theme: "pp_default",
             horizontal_padding: 20,

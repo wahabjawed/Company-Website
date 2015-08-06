@@ -123,7 +123,7 @@
 						<a class="icon-social icon-facebook" target="_blank" href="https://www.facebook.com/zain.memon.7161?fref=ts">Facebook</a>	
 					</div>
 					<div class="col-sm-1">
-						<a class="icon-social icon-twitter" target="_blank" href="https://www.twitter.com">Twitter</a>
+						<a class="icon-social icon-twitter" target="_blank" href="https://twitter.com/Zainu_memon">Twitter</a>
 					</div>
 					<div class="col-sm-1">
 						<a class="icon-social icon-linkedin" target="_blank" href="https://pk.linkedin.com/pub/zain-ul-abedin-shafi/90/896/78">Linkedin</a>
@@ -331,7 +331,7 @@
 					</a>
 				</figure>
 			</li>
-            <li class="portfolio-mix col-md-3 web-app">
+            <li class="portfolio-mix col-md-3 mobile-app">
 				<figure class="portfolio-item">
 					<a href="assets/ffmp.jpg" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/ffmps.jpg" alt="">

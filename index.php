@@ -15,7 +15,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" >
 
 	<title>Avialdo - Scalable Solutions for Growing Businesses</title>
-
+    <link rel="image_src" 
+      type="image/png" 
+      href="http://www.avialdo.com/assets/profile-photo.png" />
 	<link rel='shortcut icon' href='img/icon.ico' />
 <link href="favicon.html" rel="icon" type="image/x-icon" />
 	<link rel="stylesheet" href="css/bootstrap.css" />

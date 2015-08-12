@@ -8,7 +8,7 @@
     <meta property="og:site_name" content="Avialdo"/>
     <meta property="og:url"content="http://avialdo.com/" />
     <meta property="og:description" content="Our services cover a wide array of IT related activities which are the center of businesses nowadays. Apple’s developers are pushing the boundaries, the Lollipop has got the Google fans excited and the website varieties increase. With so much on offer, we invite you to look through as there is nothing but quality on show and on promise from Avialdo." />
-    <meta property="og:image" content="http://www.avialdo.com/assets/profile-photo.png" />
+    <meta property="og:image" content="http://www.avialdo.com/img/avialdo_pic.jpg" />
     <!-- meta tag for gb end here-->
     <meta name="keywords" content="HTML,CSS,XML,JavaScript,Computer,Apps,Mobile apps,android app,ios app,iphone app,wordpress,joomla,hosting,mobile,">
     <meta name="author" content="Avialdo">
@@ -17,7 +17,7 @@
 	<title>Avialdo - Scalable Solutions for Growing Businesses</title>
     <link rel="image_src" 
       type="image/png" 
-      href="http://www.avialdo.com/assets/profile-photo.png" />
+      href="http://www.avialdo.com/img/avialdo_pic.jpg" />
 	<link rel='shortcut icon' href='img/icon.ico' />
 <link href="favicon.html" rel="icon" type="image/x-icon" />
 	<link rel="stylesheet" href="css/bootstrap.css" />

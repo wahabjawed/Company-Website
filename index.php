@@ -349,6 +349,16 @@
 					</a>
 				</figure>
 			</li>
+            <li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/threadzpoly.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/threadzpolys.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Threadz Poly</h3>
+						<p class="portfolio-item-description">Threadz Poly is one of the leading Polypropylene (PP) bag manufacturer in Pakistan.</p>
+					</a>
+				</figure>
+			</li>
             
             
             <!--

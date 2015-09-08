@@ -189,7 +189,7 @@
 			
 		<!--</div>-->
 <div class="container cbp-so-side cbp-so-side-top">
-		<p>What questions do you ask a developer/designer? Timeliness? Amount of bugs? Unique features? A “wow” worthy design? We give them all. Customized and right sized. That’s right we do not just develop and design. We make and craft.</p>
+		<p>What questions do you ask a developer/designer? Timeliness? Amount of bugs? Unique features? A “wow” worthy design? We give them all. Customized and right-sized. That’s right, we do not just develop and design; we make and craft.</p>
 
 		<div class="row social-icons">
 			<div class="col-sm-1 col-sm-offset-4">
@@ -217,7 +217,7 @@
 		<h1>Our Services</h1>
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<p>Our services cover a wide array of IT related activities which are the center of businesses nowadays. Apple’s developers are pushing the boundaries, the Lollipop has got the Google fans excited and the website varieties increase. With so much on offer, we invite you to look through as there is nothing but quality on show and on promise from Avialdo.</p>
+				<p>Our services cover a wide array of IT-related activities, which are the center of businesses nowadays. Apple’s developers are pushing the boundaries, Lollipop has got the Google fans excited and the website offers a plethora of services. With so much on offer, we invite you to look through as there is nothing but quality on show and on promise from Avialdo.</p>
 			</div>
 		
         	<div class="col-md-3 service-column">

@@ -271,7 +271,6 @@
 			<li class="filter btn btn-outline-white btn-small" data-filter="mobile-app">Mobile Apps</li>
 			<li class="filter btn btn-outline-white btn-small" data-filter="web-app">Web Applications</li>
 			<li class="filter btn btn-outline-white btn-small" data-filter="games">Gamification</li>
-            <li class="filter btn btn-outline-white btn-small" data-filter="simulation">Simulation</li>
 		</ul>
 
 		<ul id="portfolio-grid" class="row portfolio-row">

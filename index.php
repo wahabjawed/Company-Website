@@ -358,7 +358,36 @@
 					</a>
 				</figure>
 			</li>
-            
+            <li class="portfolio-mix col-md-3 mobile-app">
+				<figure class="portfolio-item">
+					<a href="assets/PrizeBond.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/PrizeBonds.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Prize Bond</h3>
+						<p class="portfolio-item-description">Prize Bond is the easiest and fastest way to look up Prize Bond draws and check if you got lucky.</p>
+					</a>
+				</figure>
+			</li>
+            <li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/polypropylene.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/polypropylenes.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Polypropylene</h3>
+						<p class="portfolio-item-description">Polypropylene Products Limited was a pioneering investment made in 1973 which introduced, for the first time in Pakistan, woven polypropylene bags for industrial packaging.</p>
+					</a>
+				</figure>
+			</li>
+             <li class="portfolio-mix col-md-3 games">
+				<figure class="portfolio-item">
+					<a href="assets/babyrattletoy.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/babyrattletoys.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Baby Rattle Toy</h3>
+						<p class="portfolio-item-description">Baby Rattle Toy (With Child Lock) – an interactive rattle toy for your infant or toddler.</p>
+					</a>
+				</figure>
+			</li>
             
             <!--
 			<li class="portfolio-mix col-md-3 ui-design">

@@ -489,7 +489,7 @@
 					<blockquote><p>Avialdo is a bunch of intelligent guys. They have good communication skills and always ready to help. Great Job!</p></blockquote>
 				</div>
 
-				<div class="da-slide">
+<!--				<div class="da-slide">
 					<div class="da-img">
 						<div class="round-outline">
 							<img class="round-photo" src="assets/raza-ayub.jpg" alt="munik" />
@@ -498,7 +498,7 @@
 					<p class="block-cite">Raza Ayub, President at MUNIK VI</p>
 					<blockquote><p>We are extremely grateful to them for their services to MUNIK VI in ensuring the registration portal works smoothly for all our delegates.</p></blockquote>
 				</div>
-
+-->
 				<div class="da-slide">
 					<div class="da-img">
 						<div class="round-outline">

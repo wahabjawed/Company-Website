@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
     <!-- meta tag for gb start here-->
 	<meta property="SCALABLE SOLUTIONS FOR GROWING BUSINESSES" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:site_name" content="Avialdo"/>
     <meta property="og:url"content="http://avialdo.com/" />
     <meta property="og:description" content="Our services cover a wide array of IT related activities which are the center of businesses nowadays. Apple’s developers are pushing the boundaries, the Lollipop has got the Google fans excited and the website varieties increase. With so much on offer, we invite you to look through as there is nothing but quality on show and on promise from Avialdo." />

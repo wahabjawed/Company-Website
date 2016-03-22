@@ -429,6 +429,16 @@
 					</a>
 				</figure>
 			</li>
+            <li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/walknsell.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/walknsells.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>WalknSell</h3>
+						<p class="portfolio-item-description">WalknSell is a social website that helps students and teachers post classifieds related to their school or university.</p>
+					</a>
+				</figure>
+			</li>
             
             <!--
 			<li class="portfolio-mix col-md-3 ui-design">

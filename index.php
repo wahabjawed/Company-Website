@@ -361,8 +361,8 @@
 			</li>
             <li class="portfolio-mix col-md-3 mobile-app">
 				<figure class="portfolio-item">
-					<a href="assets/PrizeBond.jpg" rel="prettyPhoto[portfolio-gal]">
-						<img class="img-responsive" src="assets/PrizeBonds.jpg" alt="">
+					<a href="assets/Prizebond.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/Prizebonds.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Prize Bond</h3>
 						<p class="portfolio-item-description">Prize Bond is the easiest and fastest way to look up Prize Bond draws and check if you got lucky.</p>
@@ -386,6 +386,46 @@
 						<div class="caption-bg"></div>
 						<h3>Baby Rattle Toy</h3>
 						<p class="portfolio-item-description">Baby Rattle Toy (With Child Lock) – an interactive rattle toy for your infant or toddler.</p>
+					</a>
+				</figure>
+			</li>
+			<li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/walknsell.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/walknsells.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>WalknSell</h3>
+						<p class="portfolio-item-description">WalknSell is a social website that helps students and teachers post classifieds related to their school or university.</p>
+					</a>
+				</figure>
+			</li>
+            <li class="portfolio-mix col-md-3 mobile-app">
+				<figure class="portfolio-item">
+					<a href="assets/Ealarm.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/Ealarms.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>E~Alarm</h3>
+						<p class="portfolio-item-description">Got in Trouble? Send SOS and Location to your closed friends and family.</p>
+					</a>
+				</figure>
+			</li>
+            <li class="portfolio-mix col-md-3 mobile-app">
+				<figure class="portfolio-item">
+					<a href="assets/Uni.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/Unis.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>U.N.I App</h3>
+						<p class="portfolio-item-description">An app for university students where they can post tweets, images, videos, comment, message, add friends and a lot more. A private group for university students.</p>
+					</a>
+				</figure>
+			</li>
+            <li class="portfolio-mix col-md-3 web-app">
+				<figure class="portfolio-item">
+					<a href="assets/Jangdalaw.jpg" rel="prettyPhoto[portfolio-gal]">
+						<img class="img-responsive" src="assets/Jangdalaws.jpg" alt="">
+						<div class="caption-bg"></div>
+						<h3>Jangda Law</h3>
+						<p class="portfolio-item-description">Our goal is to give you peace of mind. Our legal team works with individuals, families and businesses to provide a wide range of high quality legal services.</p>
 					</a>
 				</figure>
 			</li>

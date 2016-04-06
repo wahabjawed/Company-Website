@@ -100,9 +100,6 @@ jQuery(document).ready(function() {
 	$('#about .round-outline a').prettyPhoto();
 	$('.portfolio-item a').prettyPhoto();
 
-	$(document).ready(function(){
-    	$("#latest").trigger("click");
-	});
 	
 
 });

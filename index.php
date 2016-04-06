@@ -653,9 +653,9 @@
 <script type="text/javascript" src="js/custom.js"></script>
 
 <script>
-    jQuery(function(){
-      jQuery('#latest').click();
-    });
+//    jQuery(function(){
+//      jQuery('#latest').click();
+//    });
 </script>        
         
 <!-- Contact Form Ajax -->

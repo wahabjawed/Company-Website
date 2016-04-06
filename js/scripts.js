@@ -95,11 +95,14 @@ jQuery(document).ready(function() {
 	jQuery('#portfolio-grid').mixitup({
 		targetSelector: '.portfolio-mix',
 	});
-
-
+	
 	// PrettyPhoto
 	$('#about .round-outline a').prettyPhoto();
 	$('.portfolio-item a').prettyPhoto();
 
+	$(document).ready(function(){
+    	$("#latest").trigger("click");
+	});
+	
 
 });

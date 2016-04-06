@@ -268,19 +268,19 @@
 		<h1>Our Portfolio</h1>
 
 		<ul class="cat-list">
-			<li class="filter btn btn-outline-white btn-small" data-filter="all">All</li>
+			<li id= "latest" class="filter btn btn-outline-white btn-small" data-filter="latest">Latest</li>
 			<li class="filter btn btn-outline-white btn-small" data-filter="mobile-app">Mobile Apps</li>
 			<li class="filter btn btn-outline-white btn-small" data-filter="web-app">Web Applications</li>
 			<li class="filter btn btn-outline-white btn-small" data-filter="games">Gamification</li>
 		</ul>
 
 		<ul id="portfolio-grid" class="row portfolio-row">
-			<li class="portfolio-mix col-md-3 mobile-app">
+			<li class="portfolio-mix col-md-3 mobile-app latest">
 				<figure class="portfolio-item">
 					<a href="assets/ufcw5.jpg" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/ufcw5s.jpg" alt="">
 						<div class="caption-bg"></div>
-						<h3>UFCW5</h3>
+						<h3>UFCW 99</h3>
 						<p class="portfolio-item-description">The UFCW5 App is the best way for its member to stay connected on the go with their Android powered phone.</p>
 					</a>
 				</figure>
@@ -359,7 +359,7 @@
 					</a>
 				</figure>
 			</li>
-            <li class="portfolio-mix col-md-3 mobile-app">
+            <li class="portfolio-mix col-md-3 mobile-app latest">
 				<figure class="portfolio-item">
 					<a href="assets/Prizebond.jpg" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/Prizebonds.jpg" alt="">
@@ -389,7 +389,7 @@
 					</a>
 				</figure>
 			</li>
-			<li class="portfolio-mix col-md-3 web-app">
+			<li class="portfolio-mix col-md-3 web-app latest">
 				<figure class="portfolio-item">
 					<a href="assets/walknsell.jpg" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/walknsells.jpg" alt="">
@@ -409,7 +409,7 @@
 					</a>
 				</figure>
 			</li>
-            <li class="portfolio-mix col-md-3 mobile-app">
+            <li class="portfolio-mix col-md-3 mobile-app latest">
 				<figure class="portfolio-item">
 					<a href="assets/Uni.jpg" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/Unis.jpg" alt="">

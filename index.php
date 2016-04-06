@@ -652,6 +652,12 @@
 <script type="text/javascript" src="js/scripts.js"></script>
 <script type="text/javascript" src="js/custom.js"></script>
 
+<script>
+    jQuery(function(){
+      jQuery('#latest').click();
+    });
+</script>        
+        
 <!-- Contact Form Ajax -->
 <script>
 		 function validateEmail($email) {

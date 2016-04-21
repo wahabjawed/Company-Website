@@ -287,7 +287,7 @@
 			</li>
 			<li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/munik.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/monik.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/muniks.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Munik VI</h3>
@@ -331,7 +331,7 @@
             -->            
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/korkster.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/korkster.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/korksters.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Korkster</h3>
@@ -351,7 +351,7 @@
 			</li>
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/threadzpoly.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/threadzpoly.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/threadzpolys.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Threadz Poly</h3>
@@ -371,7 +371,7 @@
 			</li>
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/polypropylene.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/polypropylene_main.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/polypropylenes.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Polypropylene</h3>
@@ -391,7 +391,7 @@
 			</li>
 			<li class="portfolio-mix col-md-3 web-app latest">
 				<figure class="portfolio-item">
-					<a href="assets/walknsell.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/walknsell.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/walknsells.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>WalknSell</h3>
@@ -421,7 +421,7 @@
 			</li>
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/Jangdalaw.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/jangdalaw.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/Jangdalaws.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Jangda Law</h3>
@@ -431,7 +431,7 @@
 			</li>
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/walknsell.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/walknsell.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/walknsells.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>WalknSell</h3>
@@ -461,7 +461,7 @@
 			</li>
             <li class="portfolio-mix col-md-3 web-app">
 				<figure class="portfolio-item">
-					<a href="assets/Jangdalaw.jpg" rel="prettyPhoto[portfolio-gal]">
+					<a href="assets/jangdalaw.png" rel="prettyPhoto[portfolio-gal]">
 						<img class="img-responsive" src="assets/Jangdalaws.jpg" alt="">
 						<div class="caption-bg"></div>
 						<h3>Jangda Law</h3>
